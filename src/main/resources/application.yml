@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: hello-micronaut
+  server:
+    port: 8086
