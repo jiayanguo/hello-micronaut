@@ -1,4 +1,4 @@
 ##Test Note:
 
-Micronaut tests don't work with intelliJ build in Junit test. 
-Use gradle "test" task instead.
+Test settings:
+Preferences -> Build, Execution, Deployment -> Build tools -> Gradle -> Runner
